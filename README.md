@@ -1,4 +1,4 @@
-# 👷🏾‍♂️ BERNARD OGRAH
+# 👷🏾‍♂️ Mohammed Basit Abdul
 # <h1 align="center">Hi👋, I'm Basit</h1>
                     
 <h3 align="center">Software Engineer from Ghana </h3>
@@ -9,7 +9,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basir-devBE&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basit-devBE&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basit-devBE&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basit-devBE&theme=github_dark)
 
