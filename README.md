@@ -1,60 +1,29 @@
-## Hi 👋 I’m **Mohammed Basit Abdul**
+# 👷🏾‍♂️ BERNARD OGRAH
+# <h1 align="center">Hi👋, I'm Basit</h1>
+                    
+<h3 align="center">Software Engineer from Ghana </h3>
 
-**Software Engineer**
+- 📫 How to reach me: <a href="mailto:mohammedbasit362@gmail.com">`mohammedbasir362@gmail.com`</a>
+![]()
 
-I build scalable backend systems, APIs, and cloud-ready applications with a focus on clean architecture and performance.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
-* 🌍 Based in **Ghana**
-* ✉️ **Email:** [mohammedbasit362@gmail.com](mailto:mohammedbasit362@gmail.com)
-* 🤝 Open to collaborating on **interesting projects**
-* ⚡ Always learning and improving
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basir-devBE&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basit-devBE&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basit-devBE&theme=github_dark)
 
----
+## Programming Languages & Tools
+**Languages and Frameworks:** 
+<p><img src="https://skillicons.dev/icons?i=java,spring,typescript,docker,javascript,cpp,html,css,js,nodejs,express,nestjs" /></p>
 
-## 🛠️ Skills
+**Databases:**
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" /></p>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" /></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" /></a>
-<a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" /></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" width="36" height="36" /></a>
-</p>
+**Dev Tools:**
+<p><img src="https://skillicons.dev/icons?i=git,bash,github,docker,supabase,postman,idea,vscode,visualstudio,eclipse" /></p>
 
----
-
-## 🌐 Socials
-
-<p align="left">
-<a href="https://www.github.com/basit-devBE" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</a>
-<a href="https://medium.com/@mohammedbasit362" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
-</a>
-<a href="https://x.com/mobasit8" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-</a>
-</p>
+<br>
+<br>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-<a href="https://github.com/basit-devBE">
-<img src="https://github-readme-stats.vercel.app/api?username=basit-devBE&show_icons=true&count_private=true&title_color=000000&text_color=84cc16&icon_color=22c55e&bg_color=7f1d1d&hide_border=true" />
-</a>
-</p>
-
-<p align="left">
-<a href="https://github.com/basit-devBE">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=basit-devBE&background=7f1d1d&stroke=84cc16&ring=000000&fire=000000&currStreakNum=84cc16&currStreakLabel=000000&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" />
-</a>
-</p>
