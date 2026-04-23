@@ -4,6 +4,9 @@
 
 [![Email](https://img.shields.io/badge/Email-mohammedbasit362%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:mohammedbasit362@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-basit--devBE-181717?style=flat-square&logo=github)](https://github.com/basit-devBE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-basit--mohammed-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/basit-mohammed)
+[![Twitter](https://img.shields.io/badge/Twitter-@mobasit8-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/mobasit8)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mobasit.vercel.app-000000?style=flat-square&logo=vercel)](https://mobasit.vercel.app/)
 
 ---
 
@@ -11,15 +14,21 @@
 
 Backend-focused software engineer with experience building scalable APIs and distributed systems. I work primarily with Java/Spring Boot and TypeScript/Node.js, and I care about writing clean, maintainable code.
 
+- 🌍 Based in **Ghana**
+- 🤝 Open to collaborating on interesting projects
+- 📫 Reach me at **mohammedbasit362@gmail.com**
+
 ---
 
 ## GitHub Stats
 
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basit-devBE&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basit-devBE&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basit-devBE&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="49%" />
+</p>
 
-<p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basit-devBE&theme=github_dark" width="48%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=basit-devBE&theme=github_dark" width="48%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basit-devBE&theme=github-dark&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -55,6 +64,7 @@ Backend-focused software engineer with experience building scalable APIs and dis
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
